@@ -20,5 +20,10 @@
   "devDependencies": {
     "jasmine": "^2.6.0",
     "sinon": "^2.3.5"
+  },
+  "dependencies": {
+    "cli-interact": "^0.1.9",
+    "readline-sync": "^1.4.9",
+    "scanf": "^1.0.2"
   }
 }
