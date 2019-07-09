@@ -16,7 +16,7 @@ printstudentinfo
 求总分平均数
 求总分中位数
 ------
-module
+sample
 
 成绩单
 姓名|数学|语文|英语|编程|平均分|总分 
