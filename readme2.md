@@ -42,5 +42,5 @@ sample
 ```
 遗留问题
 1.win上测试会有中文乱码问题
-![](F:\github repo\tw-scoresheet\unsolved problem.jpg)
+
 ```
