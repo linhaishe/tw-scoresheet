@@ -38,3 +38,7 @@ sample
 全班总分中位数：xxx
 
 ------
+
+遗留问题
+1.win上测试会有中文乱码问题
+![](unsolved problem.jpg)
