@@ -1,5 +1,5 @@
 -----
-
+```
 主菜单
 
 1. 添加学生
@@ -7,8 +7,9 @@
 3. 退出
 请输入你的选择（1～3）：
 
-
+```
 -----
+```
 addstudentinfo
 
 展现添加学生信息和成绩页面
@@ -18,16 +19,16 @@ addstudentinfo
 link:
 https://github.com/JocobZling/tw2_practiceAll/blob/master/scoresheet-cli/lib/student.js
 
------
 
+```
 printstudentinfo
 生成字符串
 生成成绩单
 求总分平均数
 求总分中位数
-------
+```
 sample
-
+```
 成绩单
 姓名|数学|语文|英语|编程|平均分|总分 
 ========================
@@ -36,9 +37,10 @@ sample
 ========================
 全班总分平均数：xxx
 全班总分中位数：xxx
+```
 
-------
-
+```
 遗留问题
 1.win上测试会有中文乱码问题
-![](unsolved problem.jpg)
+![](F:\github repo\tw-scoresheet\unsolved problem.jpg)
+```
